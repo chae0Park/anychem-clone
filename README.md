@@ -7,7 +7,7 @@ Intersection Observer API를 활용한 스크롤 애니메이션
 웹 접근성과 시멘틱 마크업 준수
 
 ## 📽️Preview 
-
+https://github.com/user-attachments/assets/060d8371-03cb-4fa0-8a32-7cf3c2ca7104
 
 
 ## 🧱 기술 스택
